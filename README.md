@@ -27,6 +27,8 @@ Measuring cannabis by density, in addition to weight and content, could signific
 ### Related Links
 
 [Drugs](https://github.com/sourceduty/Drugs)
+<br>
+[Street Drug](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
