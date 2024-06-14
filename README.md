@@ -23,5 +23,9 @@ The use of opaque packaging in the legal cannabis market presents challenges for
 
 Measuring cannabis by density, in addition to weight and content, could significantly enhance the accuracy of product evaluations and improve consumer transparency. However, it would also introduce new complexities to the industry. Moreover, the use of opaque packaging limits consumers' ability to compare cannabis products effectively. Reevaluating packaging practices could help address this issue, fostering a more transparent and informed market for legal cannabis.
 
+#
+
+[Drugs](https://github.com/sourceduty/Drugs)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
