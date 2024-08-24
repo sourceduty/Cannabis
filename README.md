@@ -25,7 +25,7 @@ Measuring cannabis by density, in addition to weight and content, could signific
 
 #
 
-![Zombie Weed](https://github.com/user-attachments/assets/afb23e4d-88aa-4890-83cc-ca895c460822)
+![International Weed Crate](https://github.com/user-attachments/assets/affc382d-4855-43ea-9149-dd9928e0cf6e)
 
 #
 ### Related Links
