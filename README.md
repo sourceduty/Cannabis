@@ -1,6 +1,6 @@
 ![Weed](https://github.com/sourceduty/Cannabis/assets/123030236/1baaf71a-1023-4e8c-be6f-e5bfc2141142)
 
-> Weed prices, science and notes.
+> Weed science and notes.
 
 #
 
