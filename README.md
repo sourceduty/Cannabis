@@ -24,6 +24,17 @@ The use of opaque packaging in the legal cannabis market presents challenges for
 Measuring cannabis by density, in addition to weight and content, could significantly enhance the accuracy of product evaluations and improve consumer transparency. However, it would also introduce new complexities to the industry. Moreover, the use of opaque packaging limits consumers' ability to compare cannabis products effectively. Reevaluating packaging practices could help address this issue, fostering a more transparent and informed market for legal cannabis.
 
 #
+### 3D Weed Scanning
+
+![3D Weed Scanner](https://github.com/user-attachments/assets/4803b3cf-0d2a-4c70-8c5f-96b989ed1c1a)
+
+This cutting-edge device is designed to take your growing operation to the next level by providing unparalleled precision and insight into your plants’ health and development. With the ability to create real-time, detailed 3D models of your cannabis plants, this scanner allows you to monitor every aspect of growth, from bud size to early signs of nutrient deficiencies, all without ever touching a leaf. Say goodbye to guesswork and hello to optimized yields and healthier plants!
+
+Our 3D Weed Plant Scanner connects seamlessly with your laptop or device, offering instant visual feedback and data analysis that allows you to make informed decisions on the spot. Whether you're a commercial grower or a home enthusiast, this scanner provides you with the information you need to adjust light, nutrients, and environmental conditions with pinpoint accuracy. You'll know exactly how your plants are progressing, and you’ll be able to detect and solve potential issues before they affect your yield, saving you time and money in the long run.
+
+Take control of your cannabis cultivation with technology designed for the modern grower. The 3D Weed Plant Scanner is more than just a tool – it's an investment in the future of your operation. Boost your efficiency, improve crop quality, and increase your profits with this innovative solution. Don’t let outdated methods hold you back – step into the future of cannabis growing today!
+
+#
 
 ![International Weed Crate](https://github.com/user-attachments/assets/affc382d-4855-43ea-9149-dd9928e0cf6e)
 
