@@ -44,6 +44,8 @@ Take control of your cannabis cultivation with technology designed for the moder
 [Drugs](https://github.com/sourceduty/Drugs)
 <br>
 [Street Drug](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
+<br>
+[Bud Business](https://github.com/sourceduty/Bud_Business)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
